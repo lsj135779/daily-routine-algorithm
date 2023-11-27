@@ -21,4 +21,17 @@ public class Solution14 {
         }
         return answer;
     }
+
+    // n/2 보다 큰 약수는 본인 자신 뿐이다.
+    // answer의 초기값을 n으로 두고 시작한다.
+    public int solution2(int n) {
+        int answer = n;
+        if (n == 1) return 1;
+        for (int i = 1; i <= n/2; i++) {
+            if (n % i == 0) {
+                answer += i;
+            }
+        }
+        return answer;
+    }
 }
