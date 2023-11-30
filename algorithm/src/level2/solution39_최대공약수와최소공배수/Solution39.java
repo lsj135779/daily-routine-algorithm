@@ -1,4 +1,4 @@
-package level2.최대공약수와최소공배수;
+package level2.solution39_최대공약수와최소공배수;
 
 public class Solution39 {
     // n의 약수들로 m을 나눴을 때 0이 되는 수 중에서 가장 큰 수가 최대공약수가 된다.
