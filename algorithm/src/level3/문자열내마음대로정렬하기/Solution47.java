@@ -6,8 +6,6 @@ import java.util.Collections;
 import java.util.List;
 
 public class Solution47 {
-    import java.util.*;
-
     class Solution {
         // 문자열배열 strings에서 인덱스 n에 해당하는 문자를 뽑아내서 문자열배열로 저장한다.
         // 뽑아낸 문자열배열을 중복된 문자열 제거하고 오름차순으로 정렬한다.
