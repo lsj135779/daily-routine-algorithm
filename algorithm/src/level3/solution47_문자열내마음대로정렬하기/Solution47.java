@@ -1,4 +1,4 @@
-package level3.문자열내마음대로정렬하기;
+package level3.solution47_문자열내마음대로정렬하기;
 
 import java.util.ArrayList;
 import java.util.Arrays;
