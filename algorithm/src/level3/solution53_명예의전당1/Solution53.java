@@ -1,4 +1,4 @@
-package level3.solution53;
+package level3.solution53_명예의전당1;
 
 import java.util.ArrayList;
 import java.util.Collections;
